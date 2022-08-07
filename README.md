@@ -1,1 +1,1 @@
-# ds_wage_proj
+# beginner's ds_wage_proj
