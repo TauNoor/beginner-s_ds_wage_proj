@@ -1,0 +1,1178 @@
+Education,Title,Company_Size,Gender,min_salary,max_salary,avg_salary
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,500000,500000,500000.0
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,500000,500000,500000.0
+Doctoral degree,Data Scientist,0-49 employees,Male,500000,500000,500000.0
+Doctoral degree,Product/Project Manager,"> 10,000 employees",Male,500000,500000,500000.0
+Doctoral degree,Business Analyst,"1000-9,999 employees",Male,500000,500000,500000.0
+Doctoral degree,Statistician,"1000-9,999 employees",Male,500000,500000,500000.0
+Doctoral degree,Statistician,0-49 employees,Male,500000,500000,500000.0
+Doctoral degree,Software Engineer,"> 10,000 employees",Male,500000,500000,500000.0
+Doctoral degree,Other,"> 10,000 employees",Male,500000,500000,500000.0
+Master's degree,Data Scientist,"> 10,000 employees",Male,500000,500000,500000.0
+Master's degree,Business Analyst,"> 10,000 employees",Male,500000,500000,500000.0
+Master's degree,Software Engineer,"> 10,000 employees",Male,500000,500000,500000.0
+Master's degree,Software Engineer,"1000-9,999 employees",Male,500000,500000,500000.0
+Master's degree,Other,"1000-9,999 employees",Male,500000,500000,500000.0
+Bachelor's degree,Product/Project Manager,"1000-9,999 employees",Male,500000,500000,500000.0
+Bachelor's degree,Product/Project Manager,0-49 employees,Male,500000,500000,500000.0
+Bachelor's degree,Other,50-249 employees,Male,500000,500000,500000.0
+Bachelor's degree,Other,0-49 employees,Male,500000,500000,500000.0
+Professional degree,Research Scientist,"> 10,000 employees",Male,500000,500000,500000.0
+Professional degree,Other,"> 10,000 employees",Self Describe,500000,500000,500000.0
+I prefer not to answer,Business Analyst,"1000-9,999 employees",Male,500000,500000,500000.0
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,300000,500000,400000.0
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,300000,500000,400000.0
+Doctoral degree,Research Scientist,250-999 employees,Male,300000,500000,400000.0
+Doctoral degree,Research Scientist,50-249 employees,Female,300000,500000,400000.0
+Doctoral degree,Research Scientist,0-49 employees,Male,300000,500000,400000.0
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,300000,500000,400000.0
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,300000,500000,400000.0
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,300000,500000,400000.0
+Doctoral degree,Data Scientist,250-999 employees,Male,300000,500000,400000.0
+Doctoral degree,Data Scientist,0-49 employees,Male,300000,500000,400000.0
+Doctoral degree,Data Engineer,"> 10,000 employees",Male,300000,500000,400000.0
+Doctoral degree,Software Engineer,"1000-9,999 employees",Male,300000,500000,400000.0
+Doctoral degree,Software Engineer,50-249 employees,Male,300000,500000,400000.0
+Doctoral degree,Other,"> 10,000 employees",Male,300000,500000,400000.0
+Doctoral degree,Other,"1000-9,999 employees",Male,300000,500000,400000.0
+Doctoral degree,Other,250-999 employees,Female,300000,500000,400000.0
+Doctoral degree,Other,50-249 employees,Male,300000,500000,400000.0
+Master's degree,Research Scientist,"> 10,000 employees",Male,300000,500000,400000.0
+Master's degree,Research Scientist,50-249 employees,Male,300000,500000,400000.0
+Master's degree,Data Scientist,"1000-9,999 employees",Male,300000,500000,400000.0
+Master's degree,Data Scientist,0-49 employees,Male,300000,500000,400000.0
+Master's degree,Product/Project Manager,250-999 employees,Male,300000,500000,400000.0
+Master's degree,Product/Project Manager,50-249 employees,Male,300000,500000,400000.0
+Master's degree,Product/Project Manager,0-49 employees,Male,300000,500000,400000.0
+Master's degree,Business Analyst,"> 10,000 employees",Male,300000,500000,400000.0
+Master's degree,Data Analyst,"1000-9,999 employees",Male,300000,500000,400000.0
+Master's degree,Data Engineer,"1000-9,999 employees",Male,300000,500000,400000.0
+Master's degree,Data Engineer,0-49 employees,Male,300000,500000,400000.0
+Master's degree,Software Engineer,"> 10,000 employees",Male,300000,500000,400000.0
+Master's degree,Software Engineer,"> 10,000 employees",Not Mentioned,300000,500000,400000.0
+Master's degree,Other,"> 10,000 employees",Male,300000,500000,400000.0
+Master's degree,Other,"1000-9,999 employees",Male,300000,500000,400000.0
+Master's degree,Other,"1000-9,999 employees",Female,300000,500000,400000.0
+Master's degree,Other,250-999 employees,Male,300000,500000,400000.0
+Master's degree,Other,50-249 employees,Male,300000,500000,400000.0
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,300000,500000,400000.0
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,300000,500000,400000.0
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,300000,500000,400000.0
+Bachelor's degree,Software Engineer,50-249 employees,Male,300000,500000,400000.0
+Bachelor's degree,Other,50-249 employees,Male,300000,500000,400000.0
+Bachelor's degree,Other,0-49 employees,Male,300000,500000,400000.0
+Some college/university,Data Scientist,0-49 employees,Male,300000,500000,400000.0
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,250000,299999,274999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,250000,299999,274999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,250000,299999,274999.5
+Doctoral degree,Data Scientist,50-249 employees,Male,250000,299999,274999.5
+Doctoral degree,Data Analyst,"> 10,000 employees",Male,250000,299999,274999.5
+Doctoral degree,Other,0-49 employees,Male,250000,299999,274999.5
+Master's degree,Research Scientist,"1000-9,999 employees",Female,250000,299999,274999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,250000,299999,274999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,250000,299999,274999.5
+Master's degree,Data Scientist,50-249 employees,Male,250000,299999,274999.5
+Master's degree,Data Scientist,0-49 employees,Male,250000,299999,274999.5
+Master's degree,Business Analyst,250-999 employees,Male,250000,299999,274999.5
+Master's degree,Business Analyst,0-49 employees,Female,250000,299999,274999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,250000,299999,274999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,250000,299999,274999.5
+Master's degree,Data Engineer,0-49 employees,Male,250000,299999,274999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,250000,299999,274999.5
+Master's degree,Other,"> 10,000 employees",Male,250000,299999,274999.5
+Master's degree,Other,"1000-9,999 employees",Male,250000,299999,274999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,250000,299999,274999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,250000,299999,274999.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,250000,299999,274999.5
+Bachelor's degree,Product/Project Manager,50-249 employees,Male,250000,299999,274999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,250000,299999,274999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,250000,299999,274999.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,250000,299999,274999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,250000,299999,274999.5
+Professional degree,Data Scientist,"> 10,000 employees",Male,250000,299999,274999.5
+High School,Software Engineer,0-49 employees,Male,250000,299999,274999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,200000,249999,224999.5
+Doctoral degree,Research Scientist,50-249 employees,Male,200000,249999,224999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,200000,249999,224999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,200000,249999,224999.5
+Doctoral degree,Data Scientist,250-999 employees,Male,200000,249999,224999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,200000,249999,224999.5
+Doctoral degree,Statistician,0-49 employees,Male,200000,249999,224999.5
+Doctoral degree,Software Engineer,"1000-9,999 employees",Female,200000,249999,224999.5
+Doctoral degree,Other,"> 10,000 employees",Male,200000,249999,224999.5
+Doctoral degree,Other,"> 10,000 employees",Not Mentioned,200000,249999,224999.5
+Doctoral degree,Other,"1000-9,999 employees",Male,200000,249999,224999.5
+Doctoral degree,Other,50-249 employees,Not Mentioned,200000,249999,224999.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Research Scientist,"> 10,000 employees",Not Mentioned,200000,249999,224999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,200000,249999,224999.5
+Master's degree,Data Scientist,"> 10,000 employees",Not Mentioned,200000,249999,224999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,200000,249999,224999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,200000,249999,224999.5
+Master's degree,Data Scientist,250-999 employees,Male,200000,249999,224999.5
+Master's degree,Data Scientist,50-249 employees,Male,200000,249999,224999.5
+Master's degree,Data Scientist,50-249 employees,Not Mentioned,200000,249999,224999.5
+Master's degree,Data Scientist,0-49 employees,Male,200000,249999,224999.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,200000,249999,224999.5
+Master's degree,Statistician,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Statistician,"> 10,000 employees",Female,200000,249999,224999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,200000,249999,224999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Data Engineer,0-49 employees,Male,200000,249999,224999.5
+Master's degree,DBA/Database Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Software Engineer,"> 10,000 employees",Female,200000,249999,224999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,200000,249999,224999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,200000,249999,224999.5
+Master's degree,Software Engineer,50-249 employees,Male,200000,249999,224999.5
+Master's degree,Software Engineer,0-49 employees,Male,200000,249999,224999.5
+Master's degree,Other,"> 10,000 employees",Male,200000,249999,224999.5
+Master's degree,Other,"1000-9,999 employees",Male,200000,249999,224999.5
+Master's degree,Other,50-249 employees,Female,200000,249999,224999.5
+Master's degree,Other,0-49 employees,Male,200000,249999,224999.5
+Bachelor's degree,Research Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,200000,249999,224999.5
+Bachelor's degree,Data Scientist,50-249 employees,Male,200000,249999,224999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,200000,249999,224999.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Product/Project Manager,"1000-9,999 employees",Male,200000,249999,224999.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Male,200000,249999,224999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,200000,249999,224999.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,200000,249999,224999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,200000,249999,224999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,200000,249999,224999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,200000,249999,224999.5
+Bachelor's degree,Other,0-49 employees,Male,200000,249999,224999.5
+Professional degree,Research Scientist,0-49 employees,Male,200000,249999,224999.5
+Professional degree,Data Scientist,50-249 employees,Male,200000,249999,224999.5
+Professional degree,DBA/Database Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Professional degree,Software Engineer,"> 10,000 employees",Male,200000,249999,224999.5
+Professional degree,Other,"> 10,000 employees",Male,200000,249999,224999.5
+Professional degree,Other,"> 10,000 employees",Female,200000,249999,224999.5
+Some college/university,Data Scientist,"> 10,000 employees",Male,200000,249999,224999.5
+Some college/university,Data Engineer,250-999 employees,Male,200000,249999,224999.5
+Some college/university,Software Engineer,50-249 employees,Not Mentioned,200000,249999,224999.5
+Some college/university,Other,50-249 employees,Male,200000,249999,224999.5
+Some college/university,Other,0-49 employees,Male,200000,249999,224999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Female,150000,199999,174999.5
+Doctoral degree,Research Scientist,250-999 employees,Male,150000,199999,174999.5
+Doctoral degree,Research Scientist,50-249 employees,Male,150000,199999,174999.5
+Doctoral degree,Research Scientist,50-249 employees,Female,150000,199999,174999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,150000,199999,174999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Female,150000,199999,174999.5
+Doctoral degree,Data Scientist,250-999 employees,Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,250-999 employees,Female,150000,199999,174999.5
+Doctoral degree,Data Scientist,50-249 employees,Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,50-249 employees,Female,150000,199999,174999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,150000,199999,174999.5
+Doctoral degree,Data Scientist,0-49 employees,Female,150000,199999,174999.5
+Doctoral degree,Product/Project Manager,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Product/Project Manager,0-49 employees,Male,150000,199999,174999.5
+Doctoral degree,Statistician,"> 10,000 employees",Male,150000,199999,174999.5
+Doctoral degree,Statistician,"1000-9,999 employees",Female,150000,199999,174999.5
+Doctoral degree,Data Engineer,"> 10,000 employees",Not Mentioned,150000,199999,174999.5
+Doctoral degree,DBA/Database Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Software Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Doctoral degree,Software Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Software Engineer,250-999 employees,Male,150000,199999,174999.5
+Doctoral degree,Other,"1000-9,999 employees",Male,150000,199999,174999.5
+Doctoral degree,Other,250-999 employees,Male,150000,199999,174999.5
+Doctoral degree,Other,50-249 employees,Male,150000,199999,174999.5
+Doctoral degree,Other,50-249 employees,Female,150000,199999,174999.5
+Doctoral degree,Other,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Research Scientist,"> 10,000 employees",Female,150000,199999,174999.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Research Scientist,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Research Scientist,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,150000,199999,174999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,150000,199999,174999.5
+Master's degree,Data Scientist,250-999 employees,Male,150000,199999,174999.5
+Master's degree,Data Scientist,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Data Scientist,50-249 employees,Female,150000,199999,174999.5
+Master's degree,Data Scientist,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Product/Project Manager,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Product/Project Manager,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Business Analyst,"> 10,000 employees",Female,150000,199999,174999.5
+Master's degree,Business Analyst,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Statistician,250-999 employees,Female,150000,199999,174999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,150000,199999,174999.5
+Master's degree,Data Analyst,250-999 employees,Male,150000,199999,174999.5
+Master's degree,Data Analyst,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Data Engineer,"> 10,000 employees",Self Describe,150000,199999,174999.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Data Engineer,250-999 employees,Male,150000,199999,174999.5
+Master's degree,Data Engineer,250-999 employees,Female,150000,199999,174999.5
+Master's degree,Data Engineer,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Software Engineer,250-999 employees,Male,150000,199999,174999.5
+Master's degree,Software Engineer,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Software Engineer,0-49 employees,Male,150000,199999,174999.5
+Master's degree,Other,"> 10,000 employees",Male,150000,199999,174999.5
+Master's degree,Other,"> 10,000 employees",Female,150000,199999,174999.5
+Master's degree,Other,"1000-9,999 employees",Male,150000,199999,174999.5
+Master's degree,Other,"1000-9,999 employees",Female,150000,199999,174999.5
+Master's degree,Other,250-999 employees,Male,150000,199999,174999.5
+Master's degree,Other,50-249 employees,Male,150000,199999,174999.5
+Master's degree,Other,0-49 employees,Male,150000,199999,174999.5
+Bachelor's degree,Research Scientist,"> 10,000 employees",Not Mentioned,150000,199999,174999.5
+Bachelor's degree,Research Scientist,50-249 employees,Male,150000,199999,174999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Female,150000,199999,174999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Female,150000,199999,174999.5
+Bachelor's degree,Data Scientist,250-999 employees,Male,150000,199999,174999.5
+Bachelor's degree,Data Scientist,50-249 employees,Male,150000,199999,174999.5
+Bachelor's degree,Data Scientist,50-249 employees,Female,150000,199999,174999.5
+Bachelor's degree,Data Scientist,0-49 employees,Female,150000,199999,174999.5
+Bachelor's degree,Data Scientist,0-49 employees,Self Describe,150000,199999,174999.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Product/Project Manager,"1000-9,999 employees",Female,150000,199999,174999.5
+Bachelor's degree,Product/Project Manager,250-999 employees,Male,150000,199999,174999.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Male,150000,199999,174999.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Female,150000,199999,174999.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Analyst,250-999 employees,Male,150000,199999,174999.5
+Bachelor's degree,Data Analyst,250-999 employees,Female,150000,199999,174999.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,150000,199999,174999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,150000,199999,174999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,150000,199999,174999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,150000,199999,174999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,150000,199999,174999.5
+Bachelor's degree,Other,"1000-9,999 employees",Male,150000,199999,174999.5
+Bachelor's degree,Other,250-999 employees,Male,150000,199999,174999.5
+Bachelor's degree,Other,50-249 employees,Male,150000,199999,174999.5
+Bachelor's degree,Other,0-49 employees,Male,150000,199999,174999.5
+Professional degree,Research Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Professional degree,Data Scientist,"> 10,000 employees",Male,150000,199999,174999.5
+Professional degree,Data Scientist,"1000-9,999 employees",Male,150000,199999,174999.5
+Professional degree,Data Engineer,50-249 employees,Male,150000,199999,174999.5
+Professional degree,Other,"1000-9,999 employees",Male,150000,199999,174999.5
+Some college/university,Data Scientist,50-249 employees,Male,150000,199999,174999.5
+Some college/university,Data Scientist,0-49 employees,Male,150000,199999,174999.5
+Some college/university,Product/Project Manager,"> 10,000 employees",Male,150000,199999,174999.5
+Some college/university,Data Analyst,50-249 employees,Male,150000,199999,174999.5
+Some college/university,DBA/Database Engineer,250-999 employees,Male,150000,199999,174999.5
+Some college/university,DBA/Database Engineer,0-49 employees,Male,150000,199999,174999.5
+Some college/university,Software Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+Some college/university,Software Engineer,"1000-9,999 employees",Male,150000,199999,174999.5
+Some college/university,Software Engineer,50-249 employees,Male,150000,199999,174999.5
+Some college/university,Other,"1000-9,999 employees",Male,150000,199999,174999.5
+High School,Product/Project Manager,"> 10,000 employees",Male,150000,199999,174999.5
+High School,Software Engineer,"> 10,000 employees",Male,150000,199999,174999.5
+I prefer not to answer,DBA/Database Engineer,"> 10,000 employees",Not Mentioned,150000,199999,174999.5
+I prefer not to answer,Other,50-249 employees,Male,150000,199999,174999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,125000,149999,137499.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Female,125000,149999,137499.5
+Doctoral degree,Research Scientist,250-999 employees,Male,125000,149999,137499.5
+Doctoral degree,Research Scientist,250-999 employees,Female,125000,149999,137499.5
+Doctoral degree,Research Scientist,50-249 employees,Male,125000,149999,137499.5
+Doctoral degree,Research Scientist,0-49 employees,Male,125000,149999,137499.5
+Doctoral degree,Research Scientist,0-49 employees,Female,125000,149999,137499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,125000,149999,137499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,125000,149999,137499.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,125000,149999,137499.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Female,125000,149999,137499.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Not Mentioned,125000,149999,137499.5
+Doctoral degree,Data Scientist,250-999 employees,Male,125000,149999,137499.5
+Doctoral degree,Data Scientist,250-999 employees,Female,125000,149999,137499.5
+Doctoral degree,Data Scientist,50-249 employees,Male,125000,149999,137499.5
+Doctoral degree,Data Scientist,0-49 employees,Male,125000,149999,137499.5
+Doctoral degree,Data Scientist,0-49 employees,Female,125000,149999,137499.5
+Doctoral degree,Data Scientist,0-49 employees,Not Mentioned,125000,149999,137499.5
+Doctoral degree,Product/Project Manager,"1000-9,999 employees",Male,125000,149999,137499.5
+Doctoral degree,Product/Project Manager,"1000-9,999 employees",Female,125000,149999,137499.5
+Doctoral degree,Business Analyst,"> 10,000 employees",Male,125000,149999,137499.5
+Doctoral degree,Business Analyst,"1000-9,999 employees",Male,125000,149999,137499.5
+Doctoral degree,Business Analyst,0-49 employees,Male,125000,149999,137499.5
+Doctoral degree,Statistician,"> 10,000 employees",Female,125000,149999,137499.5
+Doctoral degree,Software Engineer,"> 10,000 employees",Male,125000,149999,137499.5
+Doctoral degree,Software Engineer,"> 10,000 employees",Female,125000,149999,137499.5
+Doctoral degree,Software Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Doctoral degree,Software Engineer,250-999 employees,Male,125000,149999,137499.5
+Doctoral degree,Software Engineer,50-249 employees,Male,125000,149999,137499.5
+Doctoral degree,Software Engineer,0-49 employees,Male,125000,149999,137499.5
+Doctoral degree,Other,"> 10,000 employees",Male,125000,149999,137499.5
+Doctoral degree,Other,"1000-9,999 employees",Male,125000,149999,137499.5
+Doctoral degree,Other,250-999 employees,Female,125000,149999,137499.5
+Doctoral degree,Other,0-49 employees,Male,125000,149999,137499.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Research Scientist,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Research Scientist,250-999 employees,Female,125000,149999,137499.5
+Master's degree,Research Scientist,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Research Scientist,0-49 employees,Male,125000,149999,137499.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,125000,149999,137499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,125000,149999,137499.5
+Master's degree,Data Scientist,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Data Scientist,250-999 employees,Female,125000,149999,137499.5
+Master's degree,Data Scientist,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Data Scientist,50-249 employees,Female,125000,149999,137499.5
+Master's degree,Data Scientist,50-249 employees,Not Mentioned,125000,149999,137499.5
+Master's degree,Data Scientist,0-49 employees,Male,125000,149999,137499.5
+Master's degree,Data Scientist,0-49 employees,Female,125000,149999,137499.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Product/Project Manager,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Product/Project Manager,250-999 employees,Female,125000,149999,137499.5
+Master's degree,Product/Project Manager,250-999 employees,Not Mentioned,125000,149999,137499.5
+Master's degree,Product/Project Manager,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Product/Project Manager,0-49 employees,Male,125000,149999,137499.5
+Master's degree,Product/Project Manager,0-49 employees,Female,125000,149999,137499.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Business Analyst,"1000-9,999 employees",Female,125000,149999,137499.5
+Master's degree,Business Analyst,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Statistician,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Statistician,50-249 employees,Female,125000,149999,137499.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,125000,149999,137499.5
+Master's degree,Data Analyst,250-999 employees,Female,125000,149999,137499.5
+Master's degree,Data Analyst,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Data Analyst,50-249 employees,Female,125000,149999,137499.5
+Master's degree,Data Analyst,0-49 employees,Female,125000,149999,137499.5
+Master's degree,Data Engineer,"> 10,000 employees",Female,125000,149999,137499.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Data Engineer,"1000-9,999 employees",Female,125000,149999,137499.5
+Master's degree,Data Engineer,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Data Engineer,0-49 employees,Male,125000,149999,137499.5
+Master's degree,DBA/Database Engineer,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,DBA/Database Engineer,"> 10,000 employees",Female,125000,149999,137499.5
+Master's degree,DBA/Database Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Software Engineer,"> 10,000 employees",Female,125000,149999,137499.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,125000,149999,137499.5
+Master's degree,Software Engineer,250-999 employees,Male,125000,149999,137499.5
+Master's degree,Software Engineer,50-249 employees,Male,125000,149999,137499.5
+Master's degree,Software Engineer,0-49 employees,Male,125000,149999,137499.5
+Master's degree,Other,"> 10,000 employees",Male,125000,149999,137499.5
+Master's degree,Other,"> 10,000 employees",Female,125000,149999,137499.5
+Master's degree,Other,"1000-9,999 employees",Male,125000,149999,137499.5
+Master's degree,Other,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Female,125000,149999,137499.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Scientist,250-999 employees,Male,125000,149999,137499.5
+Bachelor's degree,Data Scientist,250-999 employees,Female,125000,149999,137499.5
+Bachelor's degree,Data Scientist,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,125000,149999,137499.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Female,125000,149999,137499.5
+Bachelor's degree,Product/Project Manager,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Business Analyst,0-49 employees,Male,125000,149999,137499.5
+Bachelor's degree,Statistician,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Female,125000,149999,137499.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Data Engineer,250-999 employees,Male,125000,149999,137499.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Data Engineer,0-49 employees,Male,125000,149999,137499.5
+Bachelor's degree,DBA/Database Engineer,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,125000,149999,137499.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,125000,149999,137499.5
+Bachelor's degree,Other,"> 10,000 employees",Male,125000,149999,137499.5
+Bachelor's degree,Other,"1000-9,999 employees",Male,125000,149999,137499.5
+Bachelor's degree,Other,"1000-9,999 employees",Female,125000,149999,137499.5
+Bachelor's degree,Other,250-999 employees,Male,125000,149999,137499.5
+Bachelor's degree,Other,50-249 employees,Male,125000,149999,137499.5
+Bachelor's degree,Other,0-49 employees,Male,125000,149999,137499.5
+Professional degree,Data Scientist,0-49 employees,Male,125000,149999,137499.5
+Professional degree,Business Analyst,50-249 employees,Male,125000,149999,137499.5
+Professional degree,Software Engineer,50-249 employees,Male,125000,149999,137499.5
+Some college/university,Data Scientist,250-999 employees,Male,125000,149999,137499.5
+Some college/university,Product/Project Manager,"> 10,000 employees",Male,125000,149999,137499.5
+Some college/university,Product/Project Manager,50-249 employees,Male,125000,149999,137499.5
+Some college/university,Software Engineer,"1000-9,999 employees",Male,125000,149999,137499.5
+I prefer not to answer,Data Scientist,50-249 employees,Male,125000,149999,137499.5
+I prefer not to answer,Software Engineer,0-49 employees,Not Mentioned,125000,149999,137499.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,250-999 employees,Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,50-249 employees,Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,0-49 employees,Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,0-49 employees,Female,100000,124999,112499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,100000,124999,112499.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,100000,124999,112499.5
+Doctoral degree,Data Scientist,50-249 employees,Male,100000,124999,112499.5
+Doctoral degree,Data Scientist,0-49 employees,Male,100000,124999,112499.5
+Doctoral degree,Data Scientist,0-49 employees,Female,100000,124999,112499.5
+Doctoral degree,Product/Project Manager,"> 10,000 employees",Female,100000,124999,112499.5
+Doctoral degree,Product/Project Manager,50-249 employees,Male,100000,124999,112499.5
+Doctoral degree,Product/Project Manager,0-49 employees,Female,100000,124999,112499.5
+Doctoral degree,Statistician,250-999 employees,Male,100000,124999,112499.5
+Doctoral degree,Data Analyst,"> 10,000 employees",Female,100000,124999,112499.5
+Doctoral degree,Data Analyst,"1000-9,999 employees",Female,100000,124999,112499.5
+Doctoral degree,Data Analyst,250-999 employees,Male,100000,124999,112499.5
+Doctoral degree,Data Analyst,0-49 employees,Male,100000,124999,112499.5
+Doctoral degree,Data Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Data Engineer,0-49 employees,Male,100000,124999,112499.5
+Doctoral degree,Software Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Software Engineer,"1000-9,999 employees",Male,100000,124999,112499.5
+Doctoral degree,Software Engineer,0-49 employees,Male,100000,124999,112499.5
+Doctoral degree,Other,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Other,250-999 employees,Male,100000,124999,112499.5
+Doctoral degree,Other,50-249 employees,Male,100000,124999,112499.5
+Doctoral degree,Other,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Research Scientist,"1000-9,999 employees",Female,100000,124999,112499.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,100000,124999,112499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,100000,124999,112499.5
+Master's degree,Data Scientist,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Data Scientist,250-999 employees,Female,100000,124999,112499.5
+Master's degree,Data Scientist,250-999 employees,Self Describe,100000,124999,112499.5
+Master's degree,Data Scientist,250-999 employees,Not Mentioned,100000,124999,112499.5
+Master's degree,Data Scientist,50-249 employees,Male,100000,124999,112499.5
+Master's degree,Data Scientist,50-249 employees,Female,100000,124999,112499.5
+Master's degree,Data Scientist,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Data Scientist,0-49 employees,Female,100000,124999,112499.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Product/Project Manager,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Product/Project Manager,50-249 employees,Male,100000,124999,112499.5
+Master's degree,Product/Project Manager,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Business Analyst,50-249 employees,Female,100000,124999,112499.5
+Master's degree,Statistician,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Statistician,"> 10,000 employees",Female,100000,124999,112499.5
+Master's degree,Statistician,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Statistician,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Data Analyst,"> 10,000 employees",Female,100000,124999,112499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,100000,124999,112499.5
+Master's degree,Data Analyst,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Data Analyst,50-249 employees,Female,100000,124999,112499.5
+Master's degree,Data Analyst,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Data Analyst,0-49 employees,Female,100000,124999,112499.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Data Engineer,"1000-9,999 employees",Female,100000,124999,112499.5
+Master's degree,Data Engineer,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Data Engineer,50-249 employees,Male,100000,124999,112499.5
+Master's degree,Data Engineer,50-249 employees,Female,100000,124999,112499.5
+Master's degree,Data Engineer,0-49 employees,Male,100000,124999,112499.5
+Master's degree,DBA/Database Engineer,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Software Engineer,"> 10,000 employees",Female,100000,124999,112499.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Software Engineer,250-999 employees,Male,100000,124999,112499.5
+Master's degree,Software Engineer,50-249 employees,Male,100000,124999,112499.5
+Master's degree,Software Engineer,0-49 employees,Male,100000,124999,112499.5
+Master's degree,Other,"> 10,000 employees",Male,100000,124999,112499.5
+Master's degree,Other,"> 10,000 employees",Female,100000,124999,112499.5
+Master's degree,Other,"1000-9,999 employees",Male,100000,124999,112499.5
+Master's degree,Other,50-249 employees,Male,100000,124999,112499.5
+Master's degree,Other,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Research Scientist,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Female,100000,124999,112499.5
+Bachelor's degree,Data Scientist,250-999 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Scientist,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Scientist,50-249 employees,Female,100000,124999,112499.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Product/Project Manager,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Product/Project Manager,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Product/Project Manager,50-249 employees,Female,100000,124999,112499.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Business Analyst,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Female,100000,124999,112499.5
+Bachelor's degree,Data Analyst,250-999 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Analyst,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Analyst,50-249 employees,Not Mentioned,100000,124999,112499.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Data Engineer,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Data Engineer,250-999 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Data Engineer,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,DBA/Database Engineer,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,100000,124999,112499.5
+Bachelor's degree,Software Engineer,250-999 employees,Not Mentioned,100000,124999,112499.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Software Engineer,50-249 employees,Female,100000,124999,112499.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,100000,124999,112499.5
+Bachelor's degree,Other,"> 10,000 employees",Male,100000,124999,112499.5
+Bachelor's degree,Other,"1000-9,999 employees",Male,100000,124999,112499.5
+Bachelor's degree,Other,250-999 employees,Male,100000,124999,112499.5
+Bachelor's degree,Other,50-249 employees,Male,100000,124999,112499.5
+Bachelor's degree,Other,0-49 employees,Male,100000,124999,112499.5
+Professional degree,Research Scientist,50-249 employees,Male,100000,124999,112499.5
+Professional degree,Data Scientist,0-49 employees,Male,100000,124999,112499.5
+Professional degree,Data Analyst,"1000-9,999 employees",Male,100000,124999,112499.5
+Professional degree,Software Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Professional degree,Other,0-49 employees,Female,100000,124999,112499.5
+Some college/university,Product/Project Manager,0-49 employees,Male,100000,124999,112499.5
+Some college/university,Business Analyst,"> 10,000 employees",Female,100000,124999,112499.5
+Some college/university,Business Analyst,50-249 employees,Male,100000,124999,112499.5
+Some college/university,Data Analyst,"1000-9,999 employees",Male,100000,124999,112499.5
+Some college/university,Software Engineer,0-49 employees,Male,100000,124999,112499.5
+Some college/university,Other,"> 10,000 employees",Male,100000,124999,112499.5
+Some college/university,Other,"1000-9,999 employees",Female,100000,124999,112499.5
+High School,Software Engineer,50-249 employees,Male,100000,124999,112499.5
+I prefer not to answer,Product/Project Manager,"1000-9,999 employees",Male,100000,124999,112499.5
+I prefer not to answer,Software Engineer,"> 10,000 employees",Male,100000,124999,112499.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,90000,99999,94999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,90000,99999,94999.5
+Doctoral degree,Research Scientist,250-999 employees,Male,90000,99999,94999.5
+Doctoral degree,Research Scientist,250-999 employees,Female,90000,99999,94999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,90000,99999,94999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,90000,99999,94999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,90000,99999,94999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Female,90000,99999,94999.5
+Doctoral degree,Data Scientist,50-249 employees,Male,90000,99999,94999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,90000,99999,94999.5
+Doctoral degree,Data Scientist,0-49 employees,Female,90000,99999,94999.5
+Doctoral degree,Product/Project Manager,"1000-9,999 employees",Female,90000,99999,94999.5
+Doctoral degree,Product/Project Manager,250-999 employees,Male,90000,99999,94999.5
+Doctoral degree,Statistician,"> 10,000 employees",Male,90000,99999,94999.5
+Doctoral degree,Data Analyst,"1000-9,999 employees",Male,90000,99999,94999.5
+Doctoral degree,Data Analyst,"1000-9,999 employees",Female,90000,99999,94999.5
+Doctoral degree,Data Analyst,50-249 employees,Male,90000,99999,94999.5
+Doctoral degree,Data Analyst,50-249 employees,Female,90000,99999,94999.5
+Doctoral degree,Other,"1000-9,999 employees",Female,90000,99999,94999.5
+Doctoral degree,Other,250-999 employees,Male,90000,99999,94999.5
+Doctoral degree,Other,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Research Scientist,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Research Scientist,50-249 employees,Female,90000,99999,94999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,90000,99999,94999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,90000,99999,94999.5
+Master's degree,Data Scientist,250-999 employees,Male,90000,99999,94999.5
+Master's degree,Data Scientist,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Data Scientist,0-49 employees,Male,90000,99999,94999.5
+Master's degree,Data Scientist,0-49 employees,Female,90000,99999,94999.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Product/Project Manager,50-249 employees,Female,90000,99999,94999.5
+Master's degree,Product/Project Manager,0-49 employees,Male,90000,99999,94999.5
+Master's degree,Business Analyst,"> 10,000 employees",Female,90000,99999,94999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Female,90000,99999,94999.5
+Master's degree,Business Analyst,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Statistician,"> 10,000 employees",Female,90000,99999,94999.5
+Master's degree,Statistician,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Data Analyst,"> 10,000 employees",Female,90000,99999,94999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,Data Analyst,250-999 employees,Male,90000,99999,94999.5
+Master's degree,Data Analyst,250-999 employees,Female,90000,99999,94999.5
+Master's degree,Data Analyst,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,DBA/Database Engineer,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,DBA/Database Engineer,250-999 employees,Female,90000,99999,94999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Software Engineer,"> 10,000 employees",Female,90000,99999,94999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,90000,99999,94999.5
+Master's degree,Software Engineer,250-999 employees,Male,90000,99999,94999.5
+Master's degree,Software Engineer,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Software Engineer,50-249 employees,Female,90000,99999,94999.5
+Master's degree,Software Engineer,0-49 employees,Male,90000,99999,94999.5
+Master's degree,Other,"> 10,000 employees",Male,90000,99999,94999.5
+Master's degree,Other,"1000-9,999 employees",Female,90000,99999,94999.5
+Master's degree,Other,50-249 employees,Male,90000,99999,94999.5
+Master's degree,Other,0-49 employees,Male,90000,99999,94999.5
+Master's degree,Other,0-49 employees,Female,90000,99999,94999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Female,90000,99999,94999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,90000,99999,94999.5
+Bachelor's degree,Data Scientist,250-999 employees,Female,90000,99999,94999.5
+Bachelor's degree,Data Scientist,50-249 employees,Male,90000,99999,94999.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Product/Project Manager,250-999 employees,Male,90000,99999,94999.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Female,90000,99999,94999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Female,90000,99999,94999.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,90000,99999,94999.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Female,90000,99999,94999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,90000,99999,94999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Female,90000,99999,94999.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,90000,99999,94999.5
+Bachelor's degree,Data Engineer,"1000-9,999 employees",Male,90000,99999,94999.5
+Bachelor's degree,Data Engineer,250-999 employees,Male,90000,99999,94999.5
+Bachelor's degree,DBA/Database Engineer,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Female,90000,99999,94999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,90000,99999,94999.5
+Bachelor's degree,Software Engineer,250-999 employees,Male,90000,99999,94999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,90000,99999,94999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,90000,99999,94999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,90000,99999,94999.5
+Bachelor's degree,Other,50-249 employees,Male,90000,99999,94999.5
+Professional degree,Statistician,"> 10,000 employees",Male,90000,99999,94999.5
+Some college/university,Product/Project Manager,"1000-9,999 employees",Male,90000,99999,94999.5
+Some college/university,Software Engineer,0-49 employees,Male,90000,99999,94999.5
+Some college/university,Other,"> 10,000 employees",Male,90000,99999,94999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,80000,89999,84999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Female,80000,89999,84999.5
+Doctoral degree,Research Scientist,250-999 employees,Male,80000,89999,84999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,80000,89999,84999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,80000,89999,84999.5
+Doctoral degree,Data Scientist,250-999 employees,Male,80000,89999,84999.5
+Doctoral degree,Statistician,"> 10,000 employees",Male,80000,89999,84999.5
+Doctoral degree,Statistician,250-999 employees,Male,80000,89999,84999.5
+Doctoral degree,Data Engineer,"1000-9,999 employees",Male,80000,89999,84999.5
+Doctoral degree,Other,50-249 employees,Male,80000,89999,84999.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,80000,89999,84999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,80000,89999,84999.5
+Master's degree,Data Scientist,250-999 employees,Male,80000,89999,84999.5
+Master's degree,Data Scientist,250-999 employees,Female,80000,89999,84999.5
+Master's degree,Data Scientist,50-249 employees,Male,80000,89999,84999.5
+Master's degree,Data Scientist,0-49 employees,Male,80000,89999,84999.5
+Master's degree,Data Scientist,0-49 employees,Female,80000,89999,84999.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Product/Project Manager,50-249 employees,Male,80000,89999,84999.5
+Master's degree,Product/Project Manager,0-49 employees,Male,80000,89999,84999.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Business Analyst,"> 10,000 employees",Female,80000,89999,84999.5
+Master's degree,Business Analyst,250-999 employees,Male,80000,89999,84999.5
+Master's degree,Business Analyst,50-249 employees,Male,80000,89999,84999.5
+Master's degree,Statistician,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Statistician,"1000-9,999 employees",Female,80000,89999,84999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Data Analyst,"> 10,000 employees",Female,80000,89999,84999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Data Analyst,250-999 employees,Male,80000,89999,84999.5
+Master's degree,Data Analyst,50-249 employees,Male,80000,89999,84999.5
+Master's degree,Data Analyst,50-249 employees,Female,80000,89999,84999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,DBA/Database Engineer,50-249 employees,Male,80000,89999,84999.5
+Master's degree,DBA/Database Engineer,50-249 employees,Female,80000,89999,84999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,80000,89999,84999.5
+Master's degree,Software Engineer,250-999 employees,Female,80000,89999,84999.5
+Master's degree,Software Engineer,0-49 employees,Male,80000,89999,84999.5
+Master's degree,Other,"> 10,000 employees",Male,80000,89999,84999.5
+Master's degree,Other,"> 10,000 employees",Self Describe,80000,89999,84999.5
+Master's degree,Other,"1000-9,999 employees",Male,80000,89999,84999.5
+Master's degree,Other,250-999 employees,Male,80000,89999,84999.5
+Master's degree,Other,250-999 employees,Female,80000,89999,84999.5
+Master's degree,Other,0-49 employees,Male,80000,89999,84999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Female,80000,89999,84999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Female,80000,89999,84999.5
+Bachelor's degree,Data Scientist,250-999 employees,Male,80000,89999,84999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,80000,89999,84999.5
+Bachelor's degree,Data Scientist,0-49 employees,Female,80000,89999,84999.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Not Mentioned,80000,89999,84999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,80000,89999,84999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Female,80000,89999,84999.5
+Bachelor's degree,Data Analyst,50-249 employees,Male,80000,89999,84999.5
+Bachelor's degree,Data Analyst,50-249 employees,Female,80000,89999,84999.5
+Bachelor's degree,Data Analyst,0-49 employees,Female,80000,89999,84999.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,DBA/Database Engineer,"1000-9,999 employees",Male,80000,89999,84999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Female,80000,89999,84999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Female,80000,89999,84999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,80000,89999,84999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,80000,89999,84999.5
+Bachelor's degree,Software Engineer,0-49 employees,Female,80000,89999,84999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,80000,89999,84999.5
+Bachelor's degree,Other,"1000-9,999 employees",Female,80000,89999,84999.5
+Bachelor's degree,Other,50-249 employees,Male,80000,89999,84999.5
+Some college/university,Product/Project Manager,"1000-9,999 employees",Male,80000,89999,84999.5
+Some college/university,Data Analyst,50-249 employees,Male,80000,89999,84999.5
+Some college/university,Software Engineer,250-999 employees,Male,80000,89999,84999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,70000,79999,74999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Female,70000,79999,74999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,70000,79999,74999.5
+Doctoral degree,Research Scientist,250-999 employees,Male,70000,79999,74999.5
+Doctoral degree,Research Scientist,250-999 employees,Female,70000,79999,74999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,70000,79999,74999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Not Mentioned,70000,79999,74999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,70000,79999,74999.5
+Doctoral degree,Data Scientist,50-249 employees,Male,70000,79999,74999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,70000,79999,74999.5
+Doctoral degree,Data Scientist,0-49 employees,Female,70000,79999,74999.5
+Doctoral degree,Product/Project Manager,0-49 employees,Female,70000,79999,74999.5
+Doctoral degree,Statistician,"> 10,000 employees",Male,70000,79999,74999.5
+Doctoral degree,Statistician,"1000-9,999 employees",Male,70000,79999,74999.5
+Doctoral degree,Data Analyst,250-999 employees,Male,70000,79999,74999.5
+Doctoral degree,Data Analyst,0-49 employees,Female,70000,79999,74999.5
+Doctoral degree,Data Engineer,"1000-9,999 employees",Female,70000,79999,74999.5
+Doctoral degree,Other,"> 10,000 employees",Male,70000,79999,74999.5
+Doctoral degree,Other,0-49 employees,Male,70000,79999,74999.5
+Master's degree,Research Scientist,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Research Scientist,250-999 employees,Female,70000,79999,74999.5
+Master's degree,Research Scientist,50-249 employees,Male,70000,79999,74999.5
+Master's degree,Research Scientist,0-49 employees,Male,70000,79999,74999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,70000,79999,74999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Not Mentioned,70000,79999,74999.5
+Master's degree,Data Scientist,250-999 employees,Male,70000,79999,74999.5
+Master's degree,Data Scientist,250-999 employees,Female,70000,79999,74999.5
+Master's degree,Data Scientist,50-249 employees,Male,70000,79999,74999.5
+Master's degree,Data Scientist,50-249 employees,Female,70000,79999,74999.5
+Master's degree,Data Scientist,0-49 employees,Male,70000,79999,74999.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Female,70000,79999,74999.5
+Master's degree,Product/Project Manager,50-249 employees,Male,70000,79999,74999.5
+Master's degree,Business Analyst,"> 10,000 employees",Female,70000,79999,74999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Business Analyst,0-49 employees,Male,70000,79999,74999.5
+Master's degree,Statistician,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Data Analyst,"> 10,000 employees",Female,70000,79999,74999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,70000,79999,74999.5
+Master's degree,Data Analyst,250-999 employees,Male,70000,79999,74999.5
+Master's degree,Data Analyst,250-999 employees,Female,70000,79999,74999.5
+Master's degree,Data Analyst,50-249 employees,Male,70000,79999,74999.5
+Master's degree,Data Analyst,50-249 employees,Female,70000,79999,74999.5
+Master's degree,Data Analyst,0-49 employees,Female,70000,79999,74999.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Data Engineer,50-249 employees,Male,70000,79999,74999.5
+Master's degree,Data Engineer,0-49 employees,Male,70000,79999,74999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Software Engineer,250-999 employees,Female,70000,79999,74999.5
+Master's degree,Software Engineer,50-249 employees,Female,70000,79999,74999.5
+Master's degree,Other,"> 10,000 employees",Male,70000,79999,74999.5
+Master's degree,Other,"> 10,000 employees",Female,70000,79999,74999.5
+Master's degree,Other,"> 10,000 employees",Self Describe,70000,79999,74999.5
+Master's degree,Other,"1000-9,999 employees",Male,70000,79999,74999.5
+Master's degree,Other,"1000-9,999 employees",Female,70000,79999,74999.5
+Bachelor's degree,Research Scientist,50-249 employees,Female,70000,79999,74999.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,70000,79999,74999.5
+Bachelor's degree,Data Scientist,250-999 employees,Female,70000,79999,74999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,70000,79999,74999.5
+Bachelor's degree,Product/Project Manager,50-249 employees,Male,70000,79999,74999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Male,70000,79999,74999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Female,70000,79999,74999.5
+Bachelor's degree,Business Analyst,0-49 employees,Male,70000,79999,74999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,70000,79999,74999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,70000,79999,74999.5
+Bachelor's degree,Data Analyst,250-999 employees,Male,70000,79999,74999.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,70000,79999,74999.5
+Bachelor's degree,Data Analyst,0-49 employees,Female,70000,79999,74999.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,70000,79999,74999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,70000,79999,74999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Female,70000,79999,74999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,70000,79999,74999.5
+Bachelor's degree,Software Engineer,50-249 employees,Female,70000,79999,74999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,70000,79999,74999.5
+Bachelor's degree,Other,"> 10,000 employees",Female,70000,79999,74999.5
+Bachelor's degree,Other,"1000-9,999 employees",Female,70000,79999,74999.5
+Bachelor's degree,Other,250-999 employees,Male,70000,79999,74999.5
+Bachelor's degree,Other,0-49 employees,Male,70000,79999,74999.5
+Some college/university,Product/Project Manager,250-999 employees,Male,70000,79999,74999.5
+Some college/university,Business Analyst,"1000-9,999 employees",Female,70000,79999,74999.5
+Some college/university,Data Analyst,"> 10,000 employees",Male,70000,79999,74999.5
+Some college/university,Data Analyst,50-249 employees,Female,70000,79999,74999.5
+Some college/university,Software Engineer,50-249 employees,Male,70000,79999,74999.5
+Some college/university,Other,"> 10,000 employees",Male,70000,79999,74999.5
+Some college/university,Other,"1000-9,999 employees",Male,70000,79999,74999.5
+Some college/university,Other,50-249 employees,Male,70000,79999,74999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,60000,69999,64999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,60000,69999,64999.5
+Doctoral degree,Research Scientist,250-999 employees,Female,60000,69999,64999.5
+Doctoral degree,Research Scientist,50-249 employees,Male,60000,69999,64999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,60000,69999,64999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,60000,69999,64999.5
+Doctoral degree,Product/Project Manager,"1000-9,999 employees",Male,60000,69999,64999.5
+Doctoral degree,Statistician,"1000-9,999 employees",Male,60000,69999,64999.5
+Doctoral degree,Statistician,0-49 employees,Male,60000,69999,64999.5
+Doctoral degree,Data Analyst,"1000-9,999 employees",Male,60000,69999,64999.5
+Doctoral degree,Data Analyst,250-999 employees,Male,60000,69999,64999.5
+Doctoral degree,Other,"1000-9,999 employees",Male,60000,69999,64999.5
+Doctoral degree,Other,250-999 employees,Not Mentioned,60000,69999,64999.5
+Doctoral degree,Other,50-249 employees,Male,60000,69999,64999.5
+Master's degree,Research Scientist,"> 10,000 employees",Female,60000,69999,64999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,60000,69999,64999.5
+Master's degree,Data Scientist,250-999 employees,Male,60000,69999,64999.5
+Master's degree,Data Scientist,50-249 employees,Male,60000,69999,64999.5
+Master's degree,Data Scientist,0-49 employees,Male,60000,69999,64999.5
+Master's degree,Product/Project Manager,250-999 employees,Female,60000,69999,64999.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,60000,69999,64999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,60000,69999,64999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Female,60000,69999,64999.5
+Master's degree,Business Analyst,250-999 employees,Male,60000,69999,64999.5
+Master's degree,Business Analyst,50-249 employees,Male,60000,69999,64999.5
+Master's degree,Business Analyst,0-49 employees,Male,60000,69999,64999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,60000,69999,64999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,60000,69999,64999.5
+Master's degree,Data Analyst,250-999 employees,Male,60000,69999,64999.5
+Master's degree,Data Analyst,50-249 employees,Male,60000,69999,64999.5
+Master's degree,Data Analyst,0-49 employees,Male,60000,69999,64999.5
+Master's degree,Data Engineer,250-999 employees,Male,60000,69999,64999.5
+Master's degree,Data Engineer,50-249 employees,Female,60000,69999,64999.5
+Master's degree,Data Engineer,0-49 employees,Male,60000,69999,64999.5
+Master's degree,DBA/Database Engineer,"> 10,000 employees",Male,60000,69999,64999.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,60000,69999,64999.5
+Master's degree,Software Engineer,50-249 employees,Male,60000,69999,64999.5
+Master's degree,Software Engineer,0-49 employees,Male,60000,69999,64999.5
+Master's degree,Software Engineer,0-49 employees,Female,60000,69999,64999.5
+Master's degree,Other,"> 10,000 employees",Male,60000,69999,64999.5
+Master's degree,Other,"1000-9,999 employees",Male,60000,69999,64999.5
+Master's degree,Other,250-999 employees,Male,60000,69999,64999.5
+Master's degree,Other,250-999 employees,Female,60000,69999,64999.5
+Master's degree,Other,50-249 employees,Male,60000,69999,64999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,60000,69999,64999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,60000,69999,64999.5
+Bachelor's degree,Product/Project Manager,250-999 employees,Female,60000,69999,64999.5
+Bachelor's degree,Product/Project Manager,50-249 employees,Male,60000,69999,64999.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,60000,69999,64999.5
+Bachelor's degree,Statistician,"1000-9,999 employees",Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,250-999 employees,Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,50-249 employees,Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,50-249 employees,Female,60000,69999,64999.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,60000,69999,64999.5
+Bachelor's degree,Data Analyst,0-49 employees,Female,60000,69999,64999.5
+Bachelor's degree,Data Engineer,"> 10,000 employees",Female,60000,69999,64999.5
+Bachelor's degree,Data Engineer,250-999 employees,Male,60000,69999,64999.5
+Bachelor's degree,DBA/Database Engineer,"1000-9,999 employees",Female,60000,69999,64999.5
+Bachelor's degree,DBA/Database Engineer,250-999 employees,Male,60000,69999,64999.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,60000,69999,64999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Not Mentioned,60000,69999,64999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,60000,69999,64999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,60000,69999,64999.5
+Bachelor's degree,Other,250-999 employees,Male,60000,69999,64999.5
+Bachelor's degree,Other,50-249 employees,Male,60000,69999,64999.5
+Some college/university,Data Scientist,50-249 employees,Male,60000,69999,64999.5
+Some college/university,Other,"> 10,000 employees",Male,60000,69999,64999.5
+Some college/university,Other,"1000-9,999 employees",Male,60000,69999,64999.5
+Some college/university,Other,0-49 employees,Male,60000,69999,64999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,50000,59999,54999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Female,50000,59999,54999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,50000,59999,54999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Female,50000,59999,54999.5
+Doctoral degree,Research Scientist,50-249 employees,Female,50000,59999,54999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,50000,59999,54999.5
+Doctoral degree,Research Scientist,0-49 employees,Female,50000,59999,54999.5
+Doctoral degree,Data Scientist,250-999 employees,Male,50000,59999,54999.5
+Doctoral degree,Data Scientist,0-49 employees,Male,50000,59999,54999.5
+Doctoral degree,Statistician,0-49 employees,Male,50000,59999,54999.5
+Doctoral degree,Data Analyst,"1000-9,999 employees",Male,50000,59999,54999.5
+Doctoral degree,Other,0-49 employees,Male,50000,59999,54999.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,50000,59999,54999.5
+Master's degree,Research Scientist,250-999 employees,Male,50000,59999,54999.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,50000,59999,54999.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Product/Project Manager,0-49 employees,Male,50000,59999,54999.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Business Analyst,0-49 employees,Male,50000,59999,54999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,50000,59999,54999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,50000,59999,54999.5
+Master's degree,Data Analyst,250-999 employees,Male,50000,59999,54999.5
+Master's degree,Data Analyst,50-249 employees,Male,50000,59999,54999.5
+Master's degree,Data Analyst,0-49 employees,Male,50000,59999,54999.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Data Engineer,"1000-9,999 employees",Female,50000,59999,54999.5
+Master's degree,Data Engineer,250-999 employees,Female,50000,59999,54999.5
+Master's degree,Data Engineer,0-49 employees,Male,50000,59999,54999.5
+Master's degree,DBA/Database Engineer,"> 10,000 employees",Male,50000,59999,54999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,50000,59999,54999.5
+Master's degree,Software Engineer,0-49 employees,Male,50000,59999,54999.5
+Master's degree,Other,"1000-9,999 employees",Male,50000,59999,54999.5
+Master's degree,Other,250-999 employees,Female,50000,59999,54999.5
+Master's degree,Other,0-49 employees,Female,50000,59999,54999.5
+Bachelor's degree,Research Scientist,"1000-9,999 employees",Male,50000,59999,54999.5
+Bachelor's degree,Data Scientist,"> 10,000 employees",Male,50000,59999,54999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,50000,59999,54999.5
+Bachelor's degree,Business Analyst,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Statistician,"> 10,000 employees",Male,50000,59999,54999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,50000,59999,54999.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Data Engineer,250-999 employees,Male,50000,59999,54999.5
+Bachelor's degree,Data Engineer,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Software Engineer,"1000-9,999 employees",Male,50000,59999,54999.5
+Bachelor's degree,Software Engineer,50-249 employees,Male,50000,59999,54999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,50000,59999,54999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,50000,59999,54999.5
+Bachelor's degree,Other,"1000-9,999 employees",Male,50000,59999,54999.5
+Bachelor's degree,Other,"1000-9,999 employees",Female,50000,59999,54999.5
+Bachelor's degree,Other,250-999 employees,Female,50000,59999,54999.5
+Bachelor's degree,Other,50-249 employees,Male,50000,59999,54999.5
+Some college/university,DBA/Database Engineer,0-49 employees,Male,50000,59999,54999.5
+Some college/university,Other,50-249 employees,Male,50000,59999,54999.5
+Some college/university,Other,0-49 employees,Male,50000,59999,54999.5
+I prefer not to answer,Data Analyst,250-999 employees,Male,50000,59999,54999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,40000,49999,44999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Female,40000,49999,44999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,40000,49999,44999.5
+Doctoral degree,Research Scientist,50-249 employees,Male,40000,49999,44999.5
+Doctoral degree,Data Scientist,"1000-9,999 employees",Male,40000,49999,44999.5
+Doctoral degree,Other,50-249 employees,Female,40000,49999,44999.5
+Master's degree,Research Scientist,50-249 employees,Female,40000,49999,44999.5
+Master's degree,Research Scientist,0-49 employees,Female,40000,49999,44999.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,40000,49999,44999.5
+Master's degree,Data Scientist,250-999 employees,Male,40000,49999,44999.5
+Master's degree,Data Scientist,50-249 employees,Female,40000,49999,44999.5
+Master's degree,Data Scientist,0-49 employees,Male,40000,49999,44999.5
+Master's degree,Data Scientist,0-49 employees,Female,40000,49999,44999.5
+Master's degree,Product/Project Manager,50-249 employees,Female,40000,49999,44999.5
+Master's degree,Product/Project Manager,0-49 employees,Male,40000,49999,44999.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,40000,49999,44999.5
+Master's degree,Business Analyst,0-49 employees,Male,40000,49999,44999.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,40000,49999,44999.5
+Master's degree,Data Analyst,50-249 employees,Female,40000,49999,44999.5
+Master's degree,Data Analyst,0-49 employees,Male,40000,49999,44999.5
+Master's degree,Data Analyst,0-49 employees,Female,40000,49999,44999.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,40000,49999,44999.5
+Master's degree,Software Engineer,0-49 employees,Male,40000,49999,44999.5
+Master's degree,Other,"> 10,000 employees",Female,40000,49999,44999.5
+Master's degree,Other,50-249 employees,Male,40000,49999,44999.5
+Bachelor's degree,Data Scientist,0-49 employees,Female,40000,49999,44999.5
+Bachelor's degree,Business Analyst,"> 10,000 employees",Male,40000,49999,44999.5
+Bachelor's degree,Business Analyst,250-999 employees,Male,40000,49999,44999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Male,40000,49999,44999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Female,40000,49999,44999.5
+Bachelor's degree,Data Analyst,250-999 employees,Male,40000,49999,44999.5
+Bachelor's degree,Data Analyst,50-249 employees,Male,40000,49999,44999.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,40000,49999,44999.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,40000,49999,44999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,40000,49999,44999.5
+Bachelor's degree,Other,250-999 employees,Male,40000,49999,44999.5
+Bachelor's degree,Other,50-249 employees,Male,40000,49999,44999.5
+Bachelor's degree,Other,0-49 employees,Male,40000,49999,44999.5
+Professional degree,Other,50-249 employees,Male,40000,49999,44999.5
+Some college/university,Product/Project Manager,"> 10,000 employees",Not Mentioned,40000,49999,44999.5
+Some college/university,Data Analyst,"1000-9,999 employees",Male,40000,49999,44999.5
+Some college/university,Data Analyst,50-249 employees,Male,40000,49999,44999.5
+Some college/university,Data Analyst,0-49 employees,Male,40000,49999,44999.5
+Some college/university,Other,"1000-9,999 employees",Male,40000,49999,44999.5
+Some college/university,Other,"1000-9,999 employees",Female,40000,49999,44999.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,30000,39999,34999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,30000,39999,34999.5
+Doctoral degree,Research Scientist,0-49 employees,Male,30000,39999,34999.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Female,30000,39999,34999.5
+Doctoral degree,Other,0-49 employees,Male,30000,39999,34999.5
+Master's degree,Research Scientist,50-249 employees,Female,30000,39999,34999.5
+Master's degree,Research Scientist,0-49 employees,Male,30000,39999,34999.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,30000,39999,34999.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,30000,39999,34999.5
+Master's degree,Business Analyst,250-999 employees,Male,30000,39999,34999.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,30000,39999,34999.5
+Master's degree,Other,250-999 employees,Male,30000,39999,34999.5
+Master's degree,Other,0-49 employees,Male,30000,39999,34999.5
+Master's degree,Other,0-49 employees,Female,30000,39999,34999.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,30000,39999,34999.5
+Bachelor's degree,Data Analyst,"> 10,000 employees",Male,30000,39999,34999.5
+Bachelor's degree,Data Analyst,"1000-9,999 employees",Female,30000,39999,34999.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,30000,39999,34999.5
+Bachelor's degree,Other,"> 10,000 employees",Male,30000,39999,34999.5
+Bachelor's degree,Other,"1000-9,999 employees",Female,30000,39999,34999.5
+Bachelor's degree,Other,250-999 employees,Male,30000,39999,34999.5
+Bachelor's degree,Other,50-249 employees,Female,30000,39999,34999.5
+Bachelor's degree,Other,0-49 employees,Female,30000,39999,34999.5
+Bachelor's degree,Other,0-49 employees,Not Mentioned,30000,39999,34999.5
+Some college/university,Data Analyst,250-999 employees,Male,30000,39999,34999.5
+Some college/university,Software Engineer,0-49 employees,Male,30000,39999,34999.5
+Some college/university,Other,50-249 employees,Male,30000,39999,34999.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,25000,29999,27499.5
+Doctoral degree,Data Analyst,0-49 employees,Female,25000,29999,27499.5
+Doctoral degree,Other,"1000-9,999 employees",Male,25000,29999,27499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,25000,29999,27499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Female,25000,29999,27499.5
+Master's degree,Data Analyst,"> 10,000 employees",Female,25000,29999,27499.5
+Master's degree,Other,50-249 employees,Male,25000,29999,27499.5
+Master's degree,Other,0-49 employees,Male,25000,29999,27499.5
+Master's degree,Other,0-49 employees,Female,25000,29999,27499.5
+Bachelor's degree,Data Scientist,0-49 employees,Female,25000,29999,27499.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,25000,29999,27499.5
+Bachelor's degree,Other,50-249 employees,Male,25000,29999,27499.5
+Bachelor's degree,Other,0-49 employees,Male,25000,29999,27499.5
+Some college/university,Statistician,"> 10,000 employees",Male,25000,29999,27499.5
+Some college/university,Other,50-249 employees,Female,25000,29999,27499.5
+High School,Data Analyst,0-49 employees,Male,25000,29999,27499.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Female,20000,24999,22499.5
+Doctoral degree,Research Scientist,"1000-9,999 employees",Male,20000,24999,22499.5
+Doctoral degree,Software Engineer,"> 10,000 employees",Male,20000,24999,22499.5
+Doctoral degree,Other,"1000-9,999 employees",Male,20000,24999,22499.5
+Master's degree,Research Scientist,0-49 employees,Male,20000,24999,22499.5
+Master's degree,Business Analyst,0-49 employees,Male,20000,24999,22499.5
+Master's degree,Business Analyst,0-49 employees,Female,20000,24999,22499.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,20000,24999,22499.5
+Master's degree,Other,"1000-9,999 employees",Female,20000,24999,22499.5
+Bachelor's degree,Data Scientist,0-49 employees,Male,20000,24999,22499.5
+Bachelor's degree,Other,"> 10,000 employees",Male,20000,24999,22499.5
+Bachelor's degree,Other,0-49 employees,Female,20000,24999,22499.5
+Some college/university,Software Engineer,250-999 employees,Male,20000,24999,22499.5
+Some college/university,Software Engineer,0-49 employees,Female,20000,24999,22499.5
+Doctoral degree,Research Scientist,50-249 employees,Male,15000,19999,17499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,15000,19999,17499.5
+Doctoral degree,Data Analyst,"> 10,000 employees",Not Mentioned,15000,19999,17499.5
+Master's degree,Data Scientist,"1000-9,999 employees",Male,15000,19999,17499.5
+Master's degree,Data Scientist,0-49 employees,Male,15000,19999,17499.5
+Master's degree,Data Analyst,250-999 employees,Female,15000,19999,17499.5
+Master's degree,Software Engineer,0-49 employees,Male,15000,19999,17499.5
+Master's degree,Software Engineer,0-49 employees,Female,15000,19999,17499.5
+Master's degree,Other,"> 10,000 employees",Male,15000,19999,17499.5
+Master's degree,Other,"1000-9,999 employees",Female,15000,19999,17499.5
+Bachelor's degree,Other,"> 10,000 employees",Male,15000,19999,17499.5
+Bachelor's degree,Other,0-49 employees,Male,15000,19999,17499.5
+Some college/university,Product/Project Manager,0-49 employees,Female,15000,19999,17499.5
+Some college/university,Data Engineer,0-49 employees,Male,15000,19999,17499.5
+I prefer not to answer,Data Analyst,0-49 employees,Male,15000,19999,17499.5
+Doctoral degree,Data Scientist,0-49 employees,Male,10000,14999,12499.5
+Doctoral degree,Data Analyst,0-49 employees,Male,10000,14999,12499.5
+Doctoral degree,Other,"1000-9,999 employees",Male,10000,14999,12499.5
+Master's degree,Research Scientist,0-49 employees,Male,10000,14999,12499.5
+Master's degree,Data Scientist,0-49 employees,Male,10000,14999,12499.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,10000,14999,12499.5
+Master's degree,Data Analyst,50-249 employees,Female,10000,14999,12499.5
+Master's degree,Data Analyst,0-49 employees,Male,10000,14999,12499.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,10000,14999,12499.5
+Master's degree,Software Engineer,"> 10,000 employees",Female,10000,14999,12499.5
+Master's degree,Other,0-49 employees,Male,10000,14999,12499.5
+Bachelor's degree,Product/Project Manager,0-49 employees,Female,10000,14999,12499.5
+Bachelor's degree,Other,"1000-9,999 employees",Male,10000,14999,12499.5
+Doctoral degree,Research Scientist,"> 10,000 employees",Male,7500,9999,8749.5
+Doctoral degree,Data Analyst,"> 10,000 employees",Female,7500,9999,8749.5
+Master's degree,Data Scientist,0-49 employees,Male,7500,9999,8749.5
+Master's degree,Data Engineer,"> 10,000 employees",Male,7500,9999,8749.5
+Master's degree,Data Engineer,"1000-9,999 employees",Male,7500,9999,8749.5
+Master's degree,Software Engineer,0-49 employees,Male,7500,9999,8749.5
+Some college/university,Software Engineer,50-249 employees,Male,7500,9999,8749.5
+Doctoral degree,Research Scientist,0-49 employees,Female,5000,7499,6249.5
+Doctoral degree,Data Scientist,0-49 employees,Male,5000,7499,6249.5
+Master's degree,Research Scientist,0-49 employees,Female,5000,7499,6249.5
+Master's degree,Data Scientist,50-249 employees,Male,5000,7499,6249.5
+Master's degree,Data Analyst,250-999 employees,Female,5000,7499,6249.5
+Master's degree,Data Analyst,0-49 employees,Male,5000,7499,6249.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,5000,7499,6249.5
+Master's degree,Software Engineer,0-49 employees,Self Describe,5000,7499,6249.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,5000,7499,6249.5
+Master's degree,Other,"1000-9,999 employees",Male,4000,4999,4499.5
+Master's degree,Other,50-249 employees,Not Mentioned,4000,4999,4499.5
+Master's degree,Research Scientist,"> 10,000 employees",Female,3000,3999,3499.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,3000,3999,3499.5
+Bachelor's degree,Business Analyst,50-249 employees,Female,3000,3999,3499.5
+Some college/university,Data Engineer,50-249 employees,Female,3000,3999,3499.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,2000,2999,2499.5
+Bachelor's degree,Data Engineer,50-249 employees,Male,2000,2999,2499.5
+Some college/university,Data Scientist,0-49 employees,Male,2000,2999,2499.5
+Some college/university,Software Engineer,0-49 employees,Male,2000,2999,2499.5
+Master's degree,Business Analyst,50-249 employees,Not Mentioned,1000,1999,1499.5
+Master's degree,Statistician,"1000-9,999 employees",Male,1000,1999,1499.5
+Master's degree,Data Analyst,50-249 employees,Female,1000,1999,1499.5
+Master's degree,Software Engineer,0-49 employees,Male,1000,1999,1499.5
+Bachelor's degree,Data Analyst,0-49 employees,Male,1000,1999,1499.5
+Some college/university,Research Scientist,0-49 employees,Male,1000,1999,1499.5
+Doctoral degree,Research Scientist,50-249 employees,Male,0,999,499.5
+Doctoral degree,Research Scientist,0-49 employees,Male,0,999,499.5
+Doctoral degree,Research Scientist,0-49 employees,Female,0,999,499.5
+Doctoral degree,Data Scientist,"> 10,000 employees",Male,0,999,499.5
+Doctoral degree,Data Scientist,0-49 employees,Male,0,999,499.5
+Doctoral degree,Other,"> 10,000 employees",Male,0,999,499.5
+Doctoral degree,Other,50-249 employees,Male,0,999,499.5
+Doctoral degree,Other,0-49 employees,Male,0,999,499.5
+Master's degree,Research Scientist,"1000-9,999 employees",Male,0,999,499.5
+Master's degree,Research Scientist,0-49 employees,Male,0,999,499.5
+Master's degree,Data Scientist,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Data Scientist,"> 10,000 employees",Female,0,999,499.5
+Master's degree,Data Scientist,250-999 employees,Male,0,999,499.5
+Master's degree,Data Scientist,250-999 employees,Not Mentioned,0,999,499.5
+Master's degree,Data Scientist,50-249 employees,Female,0,999,499.5
+Master's degree,Data Scientist,0-49 employees,Male,0,999,499.5
+Master's degree,Data Scientist,0-49 employees,Female,0,999,499.5
+Master's degree,Product/Project Manager,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Product/Project Manager,"1000-9,999 employees",Male,0,999,499.5
+Master's degree,Product/Project Manager,0-49 employees,Male,0,999,499.5
+Master's degree,Business Analyst,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Business Analyst,"> 10,000 employees",Female,0,999,499.5
+Master's degree,Business Analyst,"1000-9,999 employees",Male,0,999,499.5
+Master's degree,Business Analyst,50-249 employees,Male,0,999,499.5
+Master's degree,Business Analyst,0-49 employees,Male,0,999,499.5
+Master's degree,Business Analyst,0-49 employees,Female,0,999,499.5
+Master's degree,Data Analyst,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Male,0,999,499.5
+Master's degree,Data Analyst,"1000-9,999 employees",Female,0,999,499.5
+Master's degree,Data Analyst,50-249 employees,Not Mentioned,0,999,499.5
+Master's degree,Data Analyst,0-49 employees,Male,0,999,499.5
+Master's degree,Data Analyst,0-49 employees,Female,0,999,499.5
+Master's degree,Software Engineer,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Software Engineer,"1000-9,999 employees",Female,0,999,499.5
+Master's degree,Software Engineer,50-249 employees,Male,0,999,499.5
+Master's degree,Software Engineer,0-49 employees,Male,0,999,499.5
+Master's degree,Other,"> 10,000 employees",Male,0,999,499.5
+Master's degree,Other,50-249 employees,Male,0,999,499.5
+Master's degree,Other,0-49 employees,Male,0,999,499.5
+Master's degree,Other,0-49 employees,Female,0,999,499.5
+Bachelor's degree,Research Scientist,0-49 employees,Male,0,999,499.5
+Bachelor's degree,Data Scientist,"1000-9,999 employees",Male,0,999,499.5
+Bachelor's degree,Data Scientist,0-49 employees,Female,0,999,499.5
+Bachelor's degree,Product/Project Manager,"> 10,000 employees",Male,0,999,499.5
+Bachelor's degree,Business Analyst,"1000-9,999 employees",Male,0,999,499.5
+Bachelor's degree,Business Analyst,50-249 employees,Male,0,999,499.5
+Bachelor's degree,Business Analyst,0-49 employees,Male,0,999,499.5
+Bachelor's degree,Business Analyst,0-49 employees,Female,0,999,499.5
+Bachelor's degree,Data Analyst,50-249 employees,Male,0,999,499.5
+Bachelor's degree,Data Analyst,0-49 employees,Female,0,999,499.5
+Bachelor's degree,Data Engineer,"1000-9,999 employees",Female,0,999,499.5
+Bachelor's degree,Data Engineer,0-49 employees,Male,0,999,499.5
+Bachelor's degree,Software Engineer,"> 10,000 employees",Male,0,999,499.5
+Bachelor's degree,Software Engineer,0-49 employees,Male,0,999,499.5
+Bachelor's degree,Other,"> 10,000 employees",Not Mentioned,0,999,499.5
+Bachelor's degree,Other,250-999 employees,Female,0,999,499.5
+Bachelor's degree,Other,50-249 employees,Female,0,999,499.5
+Bachelor's degree,Other,50-249 employees,Not Mentioned,0,999,499.5
+Bachelor's degree,Other,0-49 employees,Female,0,999,499.5
+Professional degree,Other,50-249 employees,Male,0,999,499.5
+Some college/university,Product/Project Manager,0-49 employees,Not Mentioned,0,999,499.5
+Some college/university,Software Engineer,0-49 employees,Male,0,999,499.5
+Some college/university,Other,50-249 employees,Male,0,999,499.5
+Some college/university,Other,0-49 employees,Male,0,999,499.5
+I prefer not to answer,Other,0-49 employees,Male,0,999,499.5
+I prefer not to answer,Other,0-49 employees,Not Mentioned,0,999,499.5
